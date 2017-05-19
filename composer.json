@@ -1,0 +1,25 @@
+{
+    "name": "jakub-klapka/laravel-windows-auth",
+    "description": "Service for IIS Windows authentication in Laravel",
+    "type": "library",
+    "require": {
+        "laravel/laravel": ">=5.3",
+        "php": ">=7.0"
+    },
+    "require-dev": {
+        "phpunit/phpunit": ">=6.0",
+        "php": ">=7.1"
+    },
+    "autoload": {
+        "psr-4": {
+            "JakubKlapka\\LaravelWindowsAuth\\": "./src"
+        }
+    },
+    "license": "GPL",
+    "authors": [
+        {
+            "name": "Jakub Klapka",
+            "email": "klapka@lumiart.cz"
+        }
+    ]
+}
