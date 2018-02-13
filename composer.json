@@ -15,7 +15,7 @@
             "JakubKlapka\\LaravelWindowsAuth\\": "./src"
         }
     },
-    "license": "GPL",
+    "license": "GPL-3.0-or-later",
     "authors": [
         {
             "name": "Jakub Klapka",
